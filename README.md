@@ -1,4 +1,3 @@
-[![Banner1](Resource/IMG/Banner/Banner-1.png)](https://t.me/ibilibili)
 
 > [!CAUTION]
 > 禁止在中华人民共和国境内平台公开传播本仓库内的任何内容或以此牟利！
@@ -7,19 +6,6 @@
 > 本仓库提供的插件有小部分引用自其他作者，并由我转写为 Loon 的插件，其余大部分插件为我自己编写。引用的插件均保留了原作者署名信息，在此感谢各位原作者。
 > 
 > 转载时你需要保留原作者署名信息，且遵守本仓库的 [CC BY-NC-SA 4.0](LICENSE.md) 许可协议。
-
-------
-
-#### 机场推荐
-
-[ENET - 全专线 IEPL/UDPN IPLC 专线机场](Resource/Ad/ENET.md)
-
-[CornSS - 全 IEPL 专线机场](Resource/Ad/ENET.md)
-
-------
-
-#### 广告
-[![ADBanner1](Resource/IMG/Banner/ADBanner-1.png)](https://t.me/ibilibili)
 
 ------
 
