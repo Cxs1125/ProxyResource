@@ -17,7 +17,7 @@
 > **If you are an English user, please click the `Config` button, It is an example of the English configuration of Loon;**
 > 
 > 你也可以查阅[推荐的Loon功能配置图](https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/Loon/Config/zh-CN/Resource/ConfigurationDiagram.png)，以便正确配置Loon的各项功能。
-> 查看[以下配置区别]()
+> 查看[以下配置区别](https://github.com/Cxs1125/ProxyResource/blob/main/Resource/IMG/Button/Button-9.JPG)
 
 [![最小配置](Resource/IMG/Button/Button-1.png)](https://t.me/c/2151566743/193)
 [![进阶配置](Resource/IMG/Button/Button-2.png)](https://t.me/c/2151566743/194)
